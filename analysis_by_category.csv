@@ -1,0 +1,7 @@
+issue_category,tickets,avg_resolution_hours,sla_breach_rate_pct,open_tickets
+Network,608,22.48,48.8,40
+Software/Application,650,21.98,46.6,36
+Hardware,408,18.91,34.6,18
+Other,315,11.02,20.3,16
+Email,354,8.36,13.8,10
+Access/Login,665,7.25,9.8,27

@@ -1,0 +1,5 @@
+priority,tickets,sla_breach_rate_pct,open_tickets
+Critical,166,65.1,11
+High,726,56.6,39
+Medium,1426,23.2,63
+Low,682,10.1,34

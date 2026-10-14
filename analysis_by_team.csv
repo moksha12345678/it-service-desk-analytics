@@ -1,0 +1,6 @@
+assigned_team,tickets,avg_resolution_hours,sla_breach_rate_pct,open_tickets
+Applications,623,17.89,37.6,32
+Infrastructure,617,17.87,35.0,36
+Service Desk A,715,12.79,23.9,35
+Service Desk B,639,14.89,28.3,23
+Workplace IT,406,14.58,28.8,21

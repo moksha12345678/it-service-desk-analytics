@@ -1,0 +1,14 @@
+{
+  "dataset_type": "synthetic",
+  "seed": 2026,
+  "total_tickets": 3000,
+  "resolved_tickets": 2853,
+  "open_tickets": 147,
+  "sla_compliance_pct": 69.37,
+  "average_resolution_hours_resolved": 15.58,
+  "median_resolution_hours_resolved": 11.21,
+  "highest_breach_category": "Network",
+  "highest_breach_category_rate_pct": 48.8,
+  "highest_breach_team": "Applications",
+  "highest_breach_team_rate_pct": 37.6
+}
